@@ -1,11 +1,5 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
--- https://www.phpmyadmin.net/
---
--- Värd: 46.246.40.132
--- Tid vid skapande: 10 feb 2025 kl 14:23
 -- Serverversion: 10.11.6-MariaDB-0+deb12u1
--- PHP-version: 7.4.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
