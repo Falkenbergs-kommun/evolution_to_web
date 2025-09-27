@@ -4,7 +4,7 @@ $pdo = ''; // Databasanslutning måste finnas här
 
 define('EV_BASEURL', "https://documentweb.??????.se/api/");
 define('EV_WEBURL', "https://kommun.falkenberg.se/media/evolution/");
-define('EV_SAVEPATH', "/home/httpd/fbg-intranet/evolution/");
+define('EV_SAVEPATH', "");
 
 
 // Starta upp databas PDO
